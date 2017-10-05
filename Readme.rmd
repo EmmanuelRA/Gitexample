@@ -1,6 +1,6 @@
-# Welcome to this Git Example Repository thing.
+# Welcome to this Git Example Repository thing.  
 
-1. Look at me, ima list.
-  * Ima item list.
-  * List item also
+1. Look at me, ima list.  
+  * Ima item list.  
+  * List item also  
 :simple_smile:

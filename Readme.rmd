@@ -9,4 +9,4 @@
 | Line Block  
 | Line Block  
 
-$w=3$
+$w==3$

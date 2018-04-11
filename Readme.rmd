@@ -5,6 +5,8 @@
 * List item also  
   
 ! [:octocat:](img.jpg)
+[:octocat:]
+:octocat:
 
 
 

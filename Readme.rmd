@@ -4,7 +4,7 @@
 * Ima item list.  
 * List item also  
   
-*For whoever:* I made this to go around trying silly code.
+*For whoever:* I made this to go around trying silly text in md and else.
   
 ! [:octocat:](img.jpg)
 
